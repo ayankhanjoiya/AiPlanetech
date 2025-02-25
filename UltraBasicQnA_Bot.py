@@ -19,7 +19,7 @@ knowledge_base = {
 }
 
 # First of all we will ask user for his name
-user_info = "friend"  # Store collected user information for personalization
+user_info = {} # Store collected user information for personalization
 
 def greetAndAskName():
     # Welcome statement
